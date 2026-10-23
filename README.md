@@ -15,16 +15,9 @@ claude "/refactor-arch"
 ```text
 mba-ia-refactor-projects-skill/
 ├── README.md
-├── README_OLD.md
 ├── .gitignore
 ├── .claude/
 │   └── settings.local.json
-├── reports/
-│   ├── analysis-task-manager-api.md
-│   ├── audit-project-3.md
-│   ├── audit-task-manager-api.md
-│   ├── refactor-task-manager-api.md
-│   └── validation-task-manager-api.md
 ├── code-smells-project/          # Python/Flask - API de E-commerce (com code smells)
 │   ├── app.py
 │   ├── config.py
